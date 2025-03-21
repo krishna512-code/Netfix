@@ -4,7 +4,7 @@ Here’s a concise summary for your GitHub repository:
 
 # Netfix 
 
-A fully responsive clone of Netflix India landing page clone built using **HTML, CSS, and media assets**. This project replicates the visual design and functionality of Netflix's homepage, including sections for:
+A fully responsive clone of frontend part of Netflix India landing page clone built using **HTML, CSS, and media assets**. This project replicates the visual design and functionality of Netflix's homepage, including sections for:
 
 ✅ Hero section with email subscription  
 ✅ TV, Mobile, and Kids profiles sections  
