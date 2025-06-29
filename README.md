@@ -22,3 +22,4 @@ A fully responsive clone of frontend part of Netflix India landing page clone bu
 - **Smooth UI animations & transitions**  
 - **Custom buttons and input fields**  
 - **Dark mode aesthetic with Netflix theme**  
+Deployed Link :- netfix-chi.vercel.app
